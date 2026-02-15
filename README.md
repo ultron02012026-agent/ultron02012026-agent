@@ -74,3 +74,4 @@ ethan texts an idea on telegram
 [read about it →](https://ethanhouseworth.com)
 
 </div>
+
